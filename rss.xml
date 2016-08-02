@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Xperience Design]]></title>
-        <description><![CDATA[Xperience Design]]></description>
+        <title><![CDATA[XD]]></title>
+        <description><![CDATA[XD]]></description>
         <link>https://thegrid.ai/xperience-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 19:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 02:28:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/xperience-design/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Service Design]]></title>
+            <description><![CDATA[<article><h1>Service Design</h1><p>Bacon ipsum dolor amet jerky shoulder bacon kielbasa, capicola andouille biltong beef. Prosciutto porchetta shoulder, pork belly ball tip pastrami ham hock biltong chicken landjaeger meatball picanha flank bacon cow. Sausage ribeye bresaola corned beef pig spare ribs brisket sirloin picanha shank tongue kevin short ribs boudin. Cupim drumstick shank kevin, cow pork loin pig meatball tongue frankfurter. Fatback pancetta tri-tip sirloin picanha, prosciutto salami shankle frankfurter ribeye hamburger jowl bacon filet mignon.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e41d4b4-1999-48f6-8ace-750e64f2db41.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e41d4b4-1999-48f6-8ace-750e64f2db41.jpg</link>
+            <guid isPermaLink="false">fcfba2e1-bee3-4547-87d4-85b1fa880347</guid>
+            <pubDate>Tue, 02 Aug 2016 02:28:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4164cf4-3bb5-4e1f-b3e1-4cd4fa29664d.jpg">]]></description>
